@@ -85,7 +85,7 @@ public class Main {
         System.out.println(examScores.toString());
 
         Book carmilla = new Book("Carmilla", "Sheridan Le Fanu", 270);
-        AudioBook dracula = new AudioBook("Dracula", "Bram Stoker", 30000);
+        Ebook dracula = new Ebook("Dracula", "Bram Stoker", 3000);
 
         System.out.println(dracula.toString());
     }
