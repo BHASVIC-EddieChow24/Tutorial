@@ -9,6 +9,7 @@ public class User {
 
     User(String name, String birthDay) {
         this.name = name;
+
         this.birthDay = LocalDate.parse(birthDay);
     }
 

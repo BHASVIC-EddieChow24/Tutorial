@@ -1,2 +1,3 @@
-public class AudioBook {
+public class AudioBook
+{
 }
